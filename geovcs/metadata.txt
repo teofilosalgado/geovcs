@@ -1,0 +1,27 @@
+[general]
+name=GeoVCS
+qgisMinimumVersion=3.44
+qgisMaximumVersion=4.99
+description=GeoVCS QGIS plugin.
+version=0.0.1
+author=João Victor Teófilo Salgado
+email=jvictorteo2000@hotmail.com
+
+about=GeoVCS QGIS plugin.
+
+tracker=https://github.com/teofilosalgado/geovcs-qgis/issues
+repository=https://github.com/teofilosalgado/geovcs-qgis
+
+hasProcessingProvider=no
+
+tags=data, editing, database, version, control, system, sql
+
+homepage=https://github.com/teofilosalgado/geovcs-qgis
+category=Plugins
+icon=asset/icon/logo.svg
+
+experimental=False
+deprecated=False
+
+changelog=
+    0.0.1 Initial release.
